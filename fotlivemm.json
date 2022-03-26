@@ -5,16 +5,18 @@
             "date": "Mar 26",
             "time": "2:00 AM",
             "himg": "https://redditz.soccerstreamlinks.com/images/teams/4758.png",
-            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/4739.png"
+            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/4739.png",
+            "teams" : "Egypt Vs Senegal"
         }
     ],
     "hl": [
         {
             "league": "Premier League",
             "date": "Mar 26",
-            "time": "3 - 1",
+            "time": "1 - 0",
             "himg": "https://redditz.soccerstreamlinks.com/images/teams/4758.png",
-            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/4739.png"
+            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/4739.png",
+            "teams" : "Egypt 1-0 Senegal"
         }
     ]
 }
