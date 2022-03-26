@@ -16,6 +16,23 @@
                 {
                 "livelink":"http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"}
             ]
+        },
+           {
+            "league": "Laliga",
+            "date": "Mar 30",
+            "time": "9:30 PM",
+            "himg": "https://redditz.soccerstreamlinks.com/images/teams/4751.png",
+            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/4691.png",
+            "teams" : "Cameroon	 Vs Algeria",
+            "link":[
+                {
+                "livelink":"http://archive.simpletv.eu:8080/SkySport1HD/tracks-v1a1/mono.m3u8"
+                },
+                {
+                "livelink":"http://tvn.x10.bz/xchannel/master-3.m3u8"},
+                {
+                "livelink":"http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"}
+            ]
         }
     ],
     "hl": [
@@ -27,6 +44,15 @@
             "aimg": "https://redditz.soccerstreamlinks.com/images/teams/4739.png",
             "teams" : "Egypt 1-0 Senegal",
             "link": "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"
+        },
+           {
+            "league": "Friend",
+            "date": "Mar 26",
+            "time": "2 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6709_small.png",
+            "teams" : "France 2-1 Ivory",
+            "link": "https://ncsk16.koralast.com/UpFiles/2022/3/25/42/221206/720p.m3u8"
         }
     ]
 }
