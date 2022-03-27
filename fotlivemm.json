@@ -7,13 +7,18 @@
             "himg": "https://redditz.soccerstreamlinks.com/images/teams/4758.png",
             "aimg": "https://redditz.soccerstreamlinks.com/images/teams/4739.png",
             "teams" : "Egypt Vs Senegal",
+            "hteam" : "Egypt",
+            "ateam" : "Senegal",
             "link":[
                 {
+                    "type": "FHD",
                 "livelink":"http://archive.simpletv.eu:8080/SkySport1HD/tracks-v1a1/mono.m3u8"
                 },
                 {
+                    "type": "HD",
                 "livelink":"http://tvn.x10.bz/xchannel/master-3.m3u8"},
                 {
+                    "type": "SD",
                 "livelink":"http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"}
             ]
         },
@@ -24,13 +29,18 @@
             "himg": "https://redditz.soccerstreamlinks.com/images/teams/4758.png",
             "aimg": "https://redditz.soccerstreamlinks.com/images/teams/4739.png",
             "teams" : "Croatia Vs Slovenia",
+             "hteam" : "Egypt",
+            "ateam" : "Senegal",
             "link":[
                 {
+                    "type": "FHD",
                 "livelink":"http://db59nrrlltjzg.cloudfront.net/stream/MzQwNw==/1080p.m3u8"
                 },
                 {
+                    "type": "HD",
                 "livelink":"http://tvn.x10.bz/xchannel/master-3.m3u8"},
                 {
+                    "type": "SD",
                 "livelink":"http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"}
             ]
         }
@@ -43,6 +53,8 @@
             "himg": "https://redditz.soccerstreamlinks.com/images/teams/4758.png",
             "aimg": "https://redditz.soccerstreamlinks.com/images/teams/4739.png",
             "teams" : "Egypt 1-0 Senegal",
+             "hteam" : "Egypt",
+            "ateam" : "Senegal",
             "link": "http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8"
         },
            {
@@ -52,7 +64,21 @@
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6709_small.png",
             "teams" : "France 2-1 Ivory",
+                "hteam" : "Egypt",
+            "ateam" : "Senegal",
             "link": "https://ncsk16.koralast.com/UpFiles/2022/3/25/42/221206/720p.m3u8"
         }
-    ]
+    ],
+    "news" : [
+       {
+          "ndate":"Mar 27, 2022",
+"htext":"လီဗာပူးအသင်းပိုင်ရှင် FSG ရဲ့ ကောင်းကွက်၊ ဆိုးကွက်နဲ့ သူတို့အပေါ် ပရိသတ် ထောက်ခံမှု နှုန်းထား",
+"btext1": "မတ်လ နိုင်ငံတကာ သီတင်းပတ်မှာတော့ ဗြိတိန်သတင်းဌာန ဒေးလီးမေလ်းကနေပြီး ပရီးမီးယားလိဂ် ဘောလုံးပရိသတ်တွေကြားမှာ စစ်တမ်းတစ်ခု ကောက်ယူခဲ့ပါတယ်။ ဘောလုံးပရိသတ် ၁ သိန်းကျော်ကနေပြီး ပရီးမီးယားလိဂ် ပိုင်ရှင် ၂၀ ဦးထဲမှာ ကလပ်တွေအတွက် အကျိုးအဖြစ်ဆုံး ပိုင်ရှင်တွေကို ရွေးထုတ်ခဲ့ကြတာဖြစ်တယ်။ အဆိုပါ စစ်တမ်းမှာတော့ လီဗာပူးပိုင်ရှင်တွေဖြစ်တဲ့ FSG က ထောက်ခံနှုန်း ၈၈.၆% ရခဲ့ကာ ကြီး ၆ ကြီးထဲမှာတော့ ချယ်ဆီး၊ မန်စီးတီးနောက် ထောက်ခံမှုနှုန်း တတိယအမြင့်ဆုံး အဖွဲ့အဖြစ် ရပ်တည်နေပါတယ်။ ",
+ "btext2":"လီဗာပူးပိုင်ရှင်တွေဟာ နံပါတ် ၁၀ နေရာမှာ ရှိနေခဲ့ခြင်းဖြစ်ကာ လီဗာပူးအသင်းကို သူတို့ ပိုင်ဆိုင်လာတဲ့ ဆယ်စုနှစ်အတွင်းမှာ ပျှမ်းမျှ အဆင့်ရပ်တည်မှု ၄.၆ ဖြစ်ပြီး ",
+"btext3": "ကလပ်တွင်း အခြေခံ အဆောက်အဦးပိုင်းမှာလည်း ",
+"imgurl1":"https://nyanaykhin.com/wp-content/uploads/2022/03/12043272022-678x381.jpg",
+"imgurl2":"https://nyanaykhin.com/wp-content/uploads/2022/03/12043272022-678x381.jpg",
+"imgurl3":"https://nyanaykhin.com/wp-content/uploads/2022/03/12043272022-678x381.jpg"
+ }
+        ]
 }
